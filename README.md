@@ -1,5 +1,8 @@
 # Reciclando Hardware
 
+![CCbySQ_88x31.png](./imagenes/CCbySQ_88x31.png)
+by @javacasm
+
 ## Distintos usos de piezas y equipos reciclados
 
 ![imagen](./imagenes/IMG_20140415_172720.jpg)
