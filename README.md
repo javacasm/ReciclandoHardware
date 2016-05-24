@@ -96,4 +96,4 @@ Utiliza los mecanismos de 2 DVDs
 
 Se usan los mecanismos de 2 DVDs y un teléfono viejo
 
-![imagen](./imagenes/IMG_20160217_082255.jpg)
+![imagen](./imagenes/IMG_20160217_082215.jpg)
